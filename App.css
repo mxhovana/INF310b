@@ -1,0 +1,58 @@
+
+
+h1{
+  left: 40%;
+  line-height: 200px;
+  margin: auto;
+  margin-top: -100px;
+  position: absolute;
+  top: 30%;
+  width: 100%;
+}
+
+img {
+  max-width: 80%;
+  left:10%;
+  position: absolute;
+  top:5%;
+}
+
+h3{
+  left: 40%;
+  line-height: 200px;
+  margin: auto;
+  margin-top: -100px;
+  position: absolute;
+  top: 40%;
+  width: 100%;
+}
+
+h5{
+  left: 40%;
+  line-height: 200px;
+  margin: auto;
+  margin-top: -100px;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+}
+
+h4{
+  left: 40%;
+  line-height: 200px;
+  margin: auto;
+  margin-top: -100px;
+  position: absolute;
+  top: 60%;
+  width: 100%;
+}
+
+h6{
+  left: 46%;
+  line-height: 200px;
+  margin: auto;
+  margin-top: -100px;
+  position: absolute;
+  top: 70%;
+  width: 100%;
+}
